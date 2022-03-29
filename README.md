@@ -1,0 +1,1 @@
+Hi! I'm Kathy, an aspiring front-end developer. Recently, I started to get back into coding. I know HTML, CSS and am currently working on the foundations of JavaScript. If you have any recommendations or tips for a newbie like me, feel free to reach out and help a girl out :). 
